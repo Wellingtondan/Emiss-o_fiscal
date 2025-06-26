@@ -26,10 +26,11 @@ Operação lançada com CFOP 1.152 na entrada e 5.152 na saída. Não gera direi
 | Entrada | 1.152 | 70 | Operação sem direiro a crédito |
 | Saída | 5.152 | 04 | Operação sem incidência (Não tributada) |
 
+------
 
-## Devolução de fornecedores
+### Devolução de fornecedores
 
-### 1. Devolução sem Substituição Tributária (ICMS próprio destacado - TRIBUTADO)
+#### 1. Devolução sem Substituição Tributária (ICMS próprio destacado - TRIBUTADO)
 
 - Devolução de mercadoria recebida como Tributado.
 
@@ -64,7 +65,7 @@ Operação lançada com CFOP 1.152 na entrada e 5.152 na saída. Não gera direi
 | Saída |	5.102 - 6.102	| 49	| Devolução **sem ICMS-ST**; ICMS próprio destacado no campo próprio da NF-e; sem crédito PIS/COFINS |
 | Entrada | 1.102 - 2.102 | 70 | Recebimento da devolução sem direito a crédito de PIS/COFINS, pois não houve geração de receita |
 
-### 2. Devolução com Substituição Tributária (ST)
+#### 2. Devolução com Substituição Tributária (ST)
 
 - Devolução de mercadoria recebida com ICMS-ST.
 
@@ -117,7 +118,7 @@ ICMS-ST informado em “Outras Despesas Acessórias” (vOutro), conforme regras
 ```
 
 
-### 3. 📄 Resposta à Consulta Tributária 30001/2024 (SP)
+#### 3. 📄 Resposta à Consulta Tributária 30001/2024 (SP)
 
 **Assunto:** Devolução de mercadoria – Substituição tributária (ICMS-ST) – Documento fiscal – Direito ao crédito
 
