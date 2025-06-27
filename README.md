@@ -1,4 +1,4 @@
-## Emissão Fiscal
+## Emissão Fiscal - Empresas Grupo / Fornecedores
 
 ### Transferência entre estabelecimentos da mesma empresa
 
